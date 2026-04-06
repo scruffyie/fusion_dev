@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+
+# Data and Logs (Don't upload your local research data)
+baselines.json
+latest_rankings.json
+history/
+index.html
+
+# Environment/Secrets
+.env
